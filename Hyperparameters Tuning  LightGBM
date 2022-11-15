@@ -1,0 +1,2 @@
+Here we will use a gradient boosting based model - Light GBM uses the leaf-wise tree growth algorithm, while many other popular tools use depth-wise tree growth. 
+Compared with depth-wise growth, the leaf-wise algorithm can converge much faster.
